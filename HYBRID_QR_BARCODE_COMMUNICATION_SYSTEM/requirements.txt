@@ -1,0 +1,8 @@
+Flask
+qrcode
+python-barcode
+Pillow
+opencv-python
+pyzbar
+numpy
+pytest
